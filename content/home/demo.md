@@ -3,12 +3,12 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: "10"
+widget_id: z
 headless: true
 weight: 15
 title: Academic Template
 subtitle: ""
-active: false
+active: true
 design:
   columns: "1"
   background:
